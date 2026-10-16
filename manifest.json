@@ -1,0 +1,10 @@
+{
+  "name": "Trivia Ktronix Hot Sale",
+  "short_name": "Trivia Ktronix",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#014691",
+  "theme_color": "#014691",
+  "icons": [{ "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }]
+}
